@@ -1,4 +1,4 @@
-# Bulk-RNA-seq 
+# Bulk-RNA-seq  
 Bulk RNA-seq, also known as bulked RNA sequencing, is a high-throughput sequencing technique used to analyze the transcriptome of a population of cells. It provides information about the gene expression patterns in a mixture of cells, rather than on a single-cell level. Bulk RNA-seq is widely used in genomics research and has contributed to our understanding of gene expression, regulatory mechanisms, and the identification of novel biomarkers.</br> 
 
 The general workflow of bulk RNA-seq involves the following steps:</br>  
