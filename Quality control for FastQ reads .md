@@ -2,7 +2,7 @@ Quality control for FastQ reads is an essential step in analyzing next-generatio
 
 1. Check sequencing quality scores: FastQ files contain quality scores for each base in the sequence. The most commonly used quality score format is Phred scores, which represent the error probability of a base call. Tools like FastQC or NGS-QC Generator can assess the quality scores and generate quality reports.
 
-2. Evaluate sequence length distribution: Check the length distribution of the reads in your FastQ files. Sequencing errors or adapter contamination can lead to shorter or longer reads. Tools like FastQC can provide information about read length distribution and identify any anomalies.
+2. Evaluate sequence length distribution: Check the length distribution of the reads in your FastQ files. Sequencing errors or adapter contamination can lead to shorter or longer reads. Tools like FastQC can provide information about read length distribution and identify any anomalies. 
 
 3. Assess per-base sequence quality: Examine the quality scores at each position in the sequence. Low-quality bases at the ends or throughout the read may indicate sequencing errors or other issues. Tools like FastQC or PRINSEQ can generate per-base quality score plots and statistics.
 
