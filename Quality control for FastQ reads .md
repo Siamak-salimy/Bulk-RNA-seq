@@ -20,4 +20,5 @@ It's important to note that the specific quality control steps and tools used ma
 Usage : ~/Desktop/singlecell/SingleCellToolkit/sratoolkit.3.0.1-ubuntu64/bin/fastq-dump --split-3 SRR648671 
 Use above code for split SRR to 2 fastq_1,fastq_2 .
 Usage : /home/lbb-admin/Desktop/singlecell/SingleCellToolkit/fastqc_v0.11.9/fastqc -f fastq SRR648671_1.fastq SRR648671_2.fastq
+Use above code for Quality check of fastq_1,fastq_2 .
 
