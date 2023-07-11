@@ -21,4 +21,5 @@ Usage : ~/Desktop/singlecell/SingleCellToolkit/sratoolkit.3.0.1-ubuntu64/bin/fas
 Use above code for split SRR to 2 fastq_1,fastq_2 .
 Usage : /home/lbb-admin/Desktop/singlecell/SingleCellToolkit/fastqc_v0.11.9/fastqc -f fastq SRR648671_1.fastq SRR648671_2.fastq
 Use above code for Quality check of fastq_1,fastq_2 .
+![image](https://github.com/Siamak-salimy/Bulk-RNA-seq/assets/34867846/5ad7833d-3f84-4d0b-9ee0-8823a75b84ca)
 
