@@ -1,4 +1,4 @@
-Quality control for FastQ reads is an essential step in analyzing next-generation sequencing (NGS) data. It helps ensure that the sequencing data is of high quality and reliable for downstream analysis. Here are some common quality control steps for FastQ reads: 
+sageQuality control for FastQ reads is an essential step in analyzing next-generation sequencing (NGS) data. It helps ensure that the sequencing data is of high quality and reliable for downstream analysis. Here are some common quality control steps for FastQ reads: 
 
 1. Check sequencing quality scores: FastQ files contain quality scores for each base in the sequence. The most commonly used quality score format is Phred scores, which represent the error probability of a base call. Tools like FastQC or NGS-QC Generator can assess the quality scores and generate quality reports.
 
@@ -18,3 +18,6 @@ Quality control for FastQ reads is an essential step in analyzing next-generatio
 
 It's important to note that the specific quality control steps and tools used may vary depending on the nature of the sequencing experiment, the sequencing platform, and the specific analysis goals. It's recommended to consult the documentation of the tools you choose to use and adapt the quality control pipeline to your specific needs.
 Usage : ~/Desktop/singlecell/SingleCellToolkit/sratoolkit.3.0.1-ubuntu64/bin/fastq-dump --split-3 SRR648671 
+Use above code for split SRR to 2 fastq_1,fastq_2 .
+Usage : /home/lbb-admin/Desktop/singlecell/SingleCellToolkit/fastqc_v0.11.9/fastqc -f fastq SRR648671_1.fastq SRR648671_2.fastq
+
