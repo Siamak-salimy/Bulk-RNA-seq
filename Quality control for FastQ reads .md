@@ -1,5 +1,5 @@
 sageQuality control for FastQ reads is an essential step in analyzing next-generation sequencing (NGS) data. It helps ensure that the sequencing data is of high quality and reliable for downstream analysis. Here are some common quality control steps for FastQ reads: 
-
+ 
 1. Check sequencing quality scores: FastQ files contain quality scores for each base in the sequence. The most commonly used quality score format is Phred scores, which represent the error probability of a base call. Tools like FastQC or NGS-QC Generator can assess the quality scores and generate quality reports. 
 
 2. Evaluate sequence length distribution: Check the length distribution of the reads in your FastQ files. Sequencing errors or adapter contamination can lead to shorter or longer reads. Tools like FastQC can provide information about read length distribution and identify any anomalies. 
