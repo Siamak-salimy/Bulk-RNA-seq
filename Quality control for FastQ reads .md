@@ -14,7 +14,7 @@ sageQuality control for FastQ reads is an essential step in analyzing next-gener
 
 7. Check for over-represented sequences: Identify and remove over-represented sequences that may indicate contamination or other technical issues. FastQC and PRINSEQ can detect such sequences and help with their removal. 
  
-8. Validate with reference genomes: If you have a reference genome, you can align your reads to it using tools like Bowtie2, BWA, or STAR. This alignment can provide insights into mapping rates, coverage, and potential biases in your data.
+8. Validate with reference genomes: If you have a reference genome, you can align your reads to it using tools like Bowtie2, BWA, or STAR. This alignment can provide insights into mapping rates, coverage, and potential biases in your data. 
 
 It's important to note that the specific quality control steps and tools used may vary depending on the nature of the sequencing experiment, the sequencing platform, and the specific analysis goals. It's recommended to consult the documentation of the tools you choose to use and adapt the quality control pipeline to your specific needs.
 Usage : ~/Desktop/singlecell/SingleCellToolkit/sratoolkit.3.0.1-ubuntu64/bin/fastq-dump --split-3 SRR648671  
