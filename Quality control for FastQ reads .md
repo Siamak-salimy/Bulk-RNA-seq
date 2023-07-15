@@ -8,7 +8,7 @@ sageQuality control for FastQ reads is an essential step in analyzing next-gener
 
 4. Trim adapters and low-quality bases: If you find adapter contamination or low-quality bases in your reads, you may need to trim them. Tools like Trimmomatic, Cutadapt, or Trim Galore can remove adapters and low-quality bases, improving the overall data quality.
 
-5. Filter out low-quality reads: Based on quality scores, you can filter out reads that do not meet certain quality thresholds. This ensures that only high-quality reads are used in downstream analyses. Tools like Trimmomatic, Cutadapt, or Fastp can perform read filtering based on quality.
+5. Filter out low-quality reads: Based on quality scores, you can filter out reads that do not meet certain quality thresholds. This ensures that only high-quality reads are used in downstream analyses. Tools like Trimmomatic, Cutadapt, or Fastp can perform read filtering based on quality. 
 
 6. Analyze sequence duplication levels: High duplication levels can indicate PCR bias or other technical artifacts. Tools like FastQC or Picard MarkDuplicates can estimate sequence duplication levels and flag potentially problematic reads. 
 
