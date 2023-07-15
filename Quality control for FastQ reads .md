@@ -18,7 +18,7 @@ sageQuality control for FastQ reads is an essential step in analyzing next-gener
 
 It's important to note that the specific quality control steps and tools used may vary depending on the nature of the sequencing experiment, the sequencing platform, and the specific analysis goals. It's recommended to consult the documentation of the tools you choose to use and adapt the quality control pipeline to your specific needs.
 Usage : ~/Desktop/singlecell/SingleCellToolkit/sratoolkit.3.0.1-ubuntu64/bin/fastq-dump --split-3 SRR648671    
-Use above code for split SRR to 2 fastq_1,fastq_2 .
+Use above code for split SRR to 2 fastq_1,fastq_2 .   
 Usage : /home/lbb-admin/Desktop/singlecell/SingleCellToolkit/fastqc_v0.11.9/fastqc -f fastq SRR648671_1.fastq SRR648671_2.fastq 
 Use above code for Quality check of fastq_1,fastq_2 .
 ![image](https://github.com/Siamak-salimy/Bulk-RNA-seq/assets/34867846/5ad7833d-3f84-4d0b-9ee0-8823a75b84ca)
