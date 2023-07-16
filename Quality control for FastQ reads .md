@@ -12,7 +12,7 @@ sageQuality control for FastQ reads is an essential step in analyzing next-gener
 
 6. Analyze sequence duplication levels: High duplication levels can indicate PCR bias or other technical artifacts. Tools like FastQC or Picard MarkDuplicates can estimate sequence duplication levels and flag potentially problematic reads. 
 
-7. Check for over-represented sequences: Identify and remove over-represented sequences that may indicate contamination or other technical issues. FastQC and PRINSEQ can detect such sequences and help with their removal. 
+7. Check for over-represented sequences: Identify and remove over-represented sequences that may indicate contamination or other technical issues. FastQC and PRINSEQ can detect such sequences and help with their removal.  
  
 8. Validate with reference genomes: If you have a reference genome, you can align your reads to it using tools like Bowtie2, BWA, or STAR. This alignment can provide insights into mapping rates, coverage, and potential biases in your data. 
 
