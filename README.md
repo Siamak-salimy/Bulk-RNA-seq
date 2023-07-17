@@ -12,7 +12,7 @@ The general workflow of bulk RNA-seq involves the following steps:</br>
 
 5. Read alignment and quantification: The generated reads are then aligned to a reference genome or a transcriptome database using specialized bioinformatics tools. This step identifies the genomic location or the transcript from which each read originated. The number of reads that map to each gene or transcript is used as a measure of its expression level.</br>
 
-6. Data analysis: After read alignment and quantification, various computational methods and statistical analyses are employed to identify differentially expressed genes, discover novel transcripts, and perform downstream analyses, such as pathway enrichment analysis and gene ontology analysis.</br>
+6. Data analysis: After read alignment and quantification, various computational methods and statistical analyses are employed to identify differentially expressed genes, discover novel transcripts, and perform downstream analyses, such as pathway enrichment analysis and gene ontology analysis.</br> 
 
 Bulk RNA-seq has several advantages, including its relative simplicity, cost-effectiveness, and ability to capture the overall gene expression profile of a population of cells. It has been widely used in studies ranging from basic research to clinical applications, such as identifying disease-related genes, studying developmental processes, and monitoring treatment responses.</br>
 
