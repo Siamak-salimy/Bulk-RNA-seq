@@ -11,7 +11,7 @@ sageQuality control for FastQ reads is an essential step in analyzing next-gener
 5. Filter out low-quality reads: Based on quality scores, you can filter out reads that do not meet certain quality thresholds. This ensures that only high-quality reads are used in downstream analyses. Tools like Trimmomatic, Cutadapt, or Fastp can perform read filtering based on quality. 
 
 6. Analyze sequence duplication levels: High duplication levels can indicate PCR bias or other technical artifacts. Tools like FastQC or Picard MarkDuplicates can estimate sequence duplication levels and flag potentially problematic reads. 
-
+ 
 7. Check for over-represented sequences: Identify and remove over-represented sequences that may indicate contamination or other technical issues. FastQC and PRINSEQ can detect such sequences and help with their removal.  
  
 8. Validate with reference genomes: If you have a reference genome, you can align your reads to it using tools like Bowtie2, BWA, or STAR. This alignment can provide insights into mapping rates, coverage, and potential biases in your data. 
