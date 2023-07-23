@@ -4,7 +4,7 @@ FastQC  : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11
 GenomeIndex Human GRCh38 : https://labshare.cshl.edu/shares/gingeraslab/www-data/dobin/STAR/STARgenomes/Human/GRCh38_Ensembl99_sparseD3_sjdbOverhang99/ 
 limma : https://bioconductor.org/packages/release/bioc/html/limma.html
 edgeR :https://bioconductor.org/packages/release/bioc/html/edgeR.html 
-readxl : https://readxl.tidyverse.org/
+readxl : https://readxl.tidyverse.org/ 
 dplyr : https://dplyr.tidyverse.org/
 WGCNA: https://cran.r-project.org/web/packages/WGCNA/index.html
 ggplot2 :https://cran.r-project.org/web/packages/ggplot2/index.html 
