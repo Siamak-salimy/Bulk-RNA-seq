@@ -14,7 +14,7 @@ The general workflow of bulk RNA-seq involves the following steps:</br>
  
 6. Data analysis: After read alignment and quantification, various computational methods and statistical analyses are employed to identify differentially expressed genes, discover novel transcripts, and perform downstream analyses, such as pathway enrichment analysis and gene ontology analysis.</br>  
 
-Bulk RNA-seq has several advantages, including its relative simplicity, cost-effectiveness, and ability to capture the overall gene expression profile of a population of cells. It has been widely used in studies ranging from basic research to clinical applications, such as identifying disease-related genes, studying developmental processes, and monitoring treatment responses.</br>
+Bulk RNA-seq has several advantages, including its relative simplicity, cost-effectiveness, and ability to capture the overall gene expression profile of a population of cells. It has been widely used in studies ranging from basic research to clinical applications, such as identifying disease-related genes, studying developmental processes, and monitoring treatment responses.</br> 
 
 However, bulk RNA-seq has limitations, particularly in capturing heterogeneity within a population of cells. Since it measures the average gene expression of all cells in the sample, it cannot distinguish between different cell types or identify rare cell populations. To address these limitations, single-cell RNA sequencing (scRNA-seq) techniques have been developed, allowing for the analysis of gene expression profiles at the individual cell level. 
   
