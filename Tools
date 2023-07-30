@@ -3,7 +3,7 @@ Dropseq tools : https://github.com/broadinstitute/Drop-seq/releases/download/v2.
 FastQC  : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.9.zip  
 GenomeIndex Human GRCh38 : https://labshare.cshl.edu/shares/gingeraslab/www-data/dobin/STAR/STARgenomes/Human/GRCh38_Ensembl99_sparseD3_sjdbOverhang99/   
 limma : https://bioconductor.org/packages/release/bioc/html/limma.html
-edgeR :https://bioconductor.org/packages/release/bioc/html/edgeR.html 
+edgeR :https://bioconductor.org/packages/release/bioc/html/edgeR.html  
 readxl : https://readxl.tidyverse.org/  
 dplyr : https://dplyr.tidyverse.org/  
 WGCNA: https://cran.r-project.org/web/packages/WGCNA/index.html
