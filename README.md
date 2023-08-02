@@ -8,7 +8,7 @@ The general workflow of bulk RNA-seq involves the following steps:</br>
 </br>
 3. RNA library preparation: The extracted RNA is converted into a sequencing library through several enzymatic steps. Initially, the RNA is fragmented into smaller pieces, followed by the addition of adapters to the fragments. These adapters contain sequences necessary for sequencing and enable the fragments to bind to the sequencing platform.</br> 
 
-4. Sequencing: The prepared library is loaded onto a next-generation sequencing platform, such as Illumina or Ion Torrent, where millions of sequencing reactions take place simultaneously. During sequencing, the complementary DNA (cDNA) fragments are amplified and sequenced by synthesis, generating a large number of short reads.</br>
+4. Sequencing: The prepared library is loaded onto a next-generation sequencing platform, such as Illumina or Ion Torrent, where millions of sequencing reactions take place simultaneously. During sequencing, the complementary DNA (cDNA) fragments are amplified and sequenced by synthesis, generating a large number of short reads.</br> 
 
 5. Read alignment and quantification: The generated reads are then aligned to a reference genome or a transcriptome database using specialized bioinformatics tools. This step identifies the genomic location or the transcript from which each read originated. The number of reads that map to each gene or transcript is used as a measure of its expression level.</br> 
  
