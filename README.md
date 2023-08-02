@@ -3,7 +3,7 @@ Bulk RNA-seq, also known as bulked RNA sequencing, is a high-throughput sequenci
  
 The general workflow of bulk RNA-seq involves the following steps:</br>        
  
-1. Sample collection and preparation: Biological samples, such as tissues or cell populations, are collected and processed to extract total RNA.  
+1. Sample collection and preparation: Biological samples, such as tissues or cell populations, are collected and processed to extract total RNA.   
 2. The RNA extraction process involves breaking open the cells, isolating the RNA molecules, and removing contaminants.       
 </br>
 3. RNA library preparation: The extracted RNA is converted into a sequencing library through several enzymatic steps. Initially, the RNA is fragmented into smaller pieces, followed by the addition of adapters to the fragments. These adapters contain sequences necessary for sequencing and enable the fragments to bind to the sequencing platform.</br> 
