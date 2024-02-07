@@ -19,7 +19,6 @@ Bulk RNA-seq has several advantages, including its relative simplicity, cost-eff
 However, bulk RNA-seq has limitations, particularly in capturing heterogeneity within a population of cells. Since it measures the average gene expression of all cells in the sample, it cannot distinguish between different cell types or identify rare cell populations. To address these limitations, single-cell RNA sequencing (scRNA-seq) techniques have been developed, allowing for the analysis of gene expression profiles at the individual cell level.</br>  
 The following content will show the importance and application of these analyses.</br>  
 there is a geate gap between Single cell and Bulk . </br>  
-That is all . 
-  
+
  
   
