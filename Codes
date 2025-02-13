@@ -1,4 +1,6 @@
 1 - fastq file > Head
+2 - Install fastqc to visualize Read quality 
+3 - Install Trimmomatic to Trimm low quality reads . 
 
          
     
