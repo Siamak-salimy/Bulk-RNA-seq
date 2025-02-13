@@ -1,7 +1,10 @@
 1 - fastq file > Head
 2 - Install fastqc to visualize Read quality 
 3 - Install Trimmomatic to Trimm low quality reads . 
-
+4 - use fastqc to compare read before and after Trimming  . 
+5 - Install Hisat2 to map reads to reference genome  . The output is a *.sam file 
+6 - Head from mapped file to show the mapped reads . 
+7 - Install htseq-count to create count file 
          
     
   
